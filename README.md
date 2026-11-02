@@ -73,7 +73,7 @@ kalkulatorBMI/
 Buka terminal atau Command Prompt, kemudian jalankan:
 
 ```bash
-git clone https://github.com/jasminmutiara35-dev/KalkulatorBMI
+git clone https://github.com/nizaraffan/KalkulatorBMI
 ```
 
 ### 2. Masuk ke Direktori Project
